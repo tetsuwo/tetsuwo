@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tetsuwo)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuwo)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="GitHub Stats Card" align="left" src="https://github-readme-stats.vercel.app/api?username=tetsuwo&count_private=false&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="GitHub Top Languages" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuwo" />
+</a>
